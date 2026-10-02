@@ -10,7 +10,6 @@
 
 - 🌎 [ChatGPT Official App](chat.openai.com)
 - 🌎 [OpenAI API Documentation](beta.openai.com/docs)
-- - 🌎 [SummarizAI — YouTube summary, chapters, chat & Study flashcards](summarizai.ink)
 - 🌎 [chatGPT launch blog](openai.com/blog/chatgpt/)
 
 #### ChatGPT Community / Discussion
@@ -32,6 +31,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;239⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;33🍴</code></b> [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt))
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/))
 - <b><code>&nbsp;&nbsp;1926⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;313🍴</code></b> [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt))
+- 🌎 [SummarizAI — YouTube summary, chapters, chat & Study flashcards](summarizai.ink)
 
 
 ### Access ChatGPT from other platforms
