@@ -10,6 +10,7 @@
 
 - 🌎 [ChatGPT Official App](chat.openai.com)
 - 🌎 [OpenAI API Documentation](beta.openai.com/docs)
+- - 🌎 [SummarizAI — YouTube summary, chapters, chat & Study flashcards](summarizai.ink)
 - 🌎 [chatGPT launch blog](openai.com/blog/chatgpt/)
 
 #### ChatGPT Community / Discussion
