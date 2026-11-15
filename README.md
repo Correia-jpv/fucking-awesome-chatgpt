@@ -63,6 +63,7 @@
 - <b><code>&nbsp;&nbsp;&nbsp;443⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;35🍴</code></b> [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit))
 - <b><code>&nbsp;&nbsp;&nbsp;166⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;37🍴</code></b> [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant))
 - 🌎 [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](gitbrain.dev)
+- 🌎 [No Stairs Please MCP: Remote MCP server and ChatGPT integration for finding verified independent live-music venues across the US and Canada](https://nostairsplease.com/mcp)
   
 ### CLI tools
 - <b><code>&nbsp;&nbsp;&nbsp;650⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;65🍴</code></b> [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation))
