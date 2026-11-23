@@ -24,6 +24,8 @@
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 
 ### Chrome Extensions
+- [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) - Free Chrome extension for timed ChatGPT continuation, per-tab pause/resume/stop controls, and context handoff for long chats.
+
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
 - [Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link](https://github.com/liady/ChatGPT-pdf))
